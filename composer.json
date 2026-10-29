@@ -9,12 +9,12 @@
         "sameday",
         "shipping"
     ],
-    "homepage": "https://github.com/WeBRTeu/sameday",
+    "homepage": "https://github.com/BrTDevil/webrteu-sameday",
     "authors": [
         {
             "name": "WeBRTeu",
             "email": "pfa.razvan.bodnariu@gmail.com",
-            "homepage": "https://webrteu.eu"
+            "homepage": "https://webrt.eu"
         }
     ],
     "require": {
