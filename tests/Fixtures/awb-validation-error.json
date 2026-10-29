@@ -1,0 +1,1 @@
+{"code": 400, "message": "Validation Failed", "errors": {"children": {"awbRecipient": {"children": {"phoneNumber": {"errors": ["Numărul de telefon nu este valid."]}}}, "parcels": {"errors": ["Greutatea este obligatorie."]}, "service": {}}}}
